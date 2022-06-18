@@ -8,4 +8,4 @@ SpringBootを使って画面にHelloWorldを表示してみる
 自分で考えた変更を新しいブランチでにコミットして、GitHubにpushするGitHub上でPullRequestを作ってみる
 
 ## SpringBootを使って画面にHelloWorldを表示してみる
-<img width="1792" alt="スクリーンショット 2022-06-17 15 52 46" src="https://user-images.githubusercontent.com/103312458/174242481-eb150898-e9bc-46cd-9605-2fcac61b9b72.png">
+<img width="1792" alt="スクリーンショット 2022-06-18 16 08 12" src="https://user-images.githubusercontent.com/103312458/174427031-b93a8d89-cfa2-4879-ac52-d35a73251b99.png">
