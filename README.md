@@ -11,8 +11,8 @@ SpringBootを使って画面にHelloWorldを表示してみる
 <img width="1792" alt="スクリーンショット 2022-06-18 16 08 12" src="https://user-images.githubusercontent.com/103312458/174427031-b93a8d89-cfa2-4879-ac52-d35a73251b99.png">
 
 ## Pull Request : 作成したソースコードをGitHubにpushするHelloWorldを表示したプロジェクトに自分で考えた変更を加えてみる例：リクエストで受け取った国（japan、us、france、korea）ごとに出すメッセージをかえる　例：現在時刻を表示する
-<img width="1792" alt="スクリーンショット 2022-06-30 18 58 31" src="https://user-images.githubusercontent.com/103312458/176652913-5d0452d6-ca15-42dc-a010-8dbb651c479e.png">
-<img width="1792" alt="スクリーンショット 2022-06-30 18 56 44" src="https://user-images.githubusercontent.com/103312458/176652012-adc46edb-69a3-4e0a-87dd-ef091bf7b0df.png">
-<img width="1792" alt="スクリーンショット 2022-06-30 18 57 08" src="https://user-images.githubusercontent.com/103312458/176652027-4d28448b-6b4b-4e54-b93b-73c3a78b5a38.png">
-<img width="1792" alt="スクリーンショット 2022-06-30 18 57 20" src="https://user-images.githubusercontent.com/103312458/176652052-46c7ecf3-dd3c-434a-87ce-e086f25eb58c.png">
-<img width="1792" alt="スクリーンショット 2022-06-30 18 57 36" src="https://user-images.githubusercontent.com/103312458/176652118-a8981c27-b3b7-44b8-bea8-f43c2493f54d.png">
+<img width="1792" alt="スクリーンショット 2022-06-30 18 58 31" src="https://user-images.githubusercontent.com/103312458/176653729-e04835d7-3814-471f-8f15-33f7eb5cb689.png">
+<img width="1792" alt="スクリーンショット 2022-06-30 19 16 16" src="https://user-images.githubusercontent.com/103312458/176653894-146e5a7a-58bd-4559-b11b-7c3895d0e79c.png">
+<img width="1792" alt="スクリーンショット 2022-06-30 19 16 31" src="https://user-images.githubusercontent.com/103312458/176653919-6d53ec8e-fdc9-4cb7-bee6-8d1edd0f6eeb.png">
+<img width="1792" alt="スクリーンショット 2022-06-30 19 16 42" src="https://user-images.githubusercontent.com/103312458/176653934-3e0eee92-d4d7-4b14-af8c-43db12a30bee.png">
+<img width="1792" alt="スクリーンショット 2022-06-30 19 16 07" src="https://user-images.githubusercontent.com/103312458/176653946-fb5a20aa-4674-42a2-9a76-b1b4a4d8037e.png">
