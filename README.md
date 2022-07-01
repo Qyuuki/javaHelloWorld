@@ -17,3 +17,4 @@ SpringBootを使って画面にHelloWorldを表示してみる
 <img width="1792" alt="スクリーンショット 2022-07-01 11 56 37" src="https://user-images.githubusercontent.com/103312458/176814951-f6cf0a51-43b6-4df2-8537-d5f996ecf717.png">
 <img width="1792" alt="スクリーンショット 2022-07-01 11 56 48" src="https://user-images.githubusercontent.com/103312458/176814979-cedd1e75-8fec-4d74-bdc0-fa9a49b0a27c.png">
 <img width="1792" alt="スクリーンショット 2022-07-01 11 57 50" src="https://user-images.githubusercontent.com/103312458/176815016-0c6ee786-0d33-451c-81cc-af29b1c6a048.png">
+<img width="1792" alt="スクリーンショット 2022-07-01 12 47 03" src="https://user-images.githubusercontent.com/103312458/176819678-4c8bd273-0c20-49ae-9e6d-a23a7278c96c.png">
